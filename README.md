@@ -1,2 +1,2 @@
 # Data-Manipulation
-Data Analysis using R dplyr
+Data Manipulation using Dplyr
